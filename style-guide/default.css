@@ -1,0 +1,10 @@
+.pageone h2 {
+  font-family: sans-serif;
+}
+.pageone p {
+  font-family: serif;
+}
+.dark {
+  color: #FFFFFF;
+  background-color: #121212;
+}

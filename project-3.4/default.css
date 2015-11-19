@@ -34,7 +34,7 @@ font-family: serif;
   bottom: 0;
   left: 0;
   width: 1000px;
-  height: 350px;
+  height: 400px;
   padding: 10px 0;
   font-size: 25px;
   text-align: center;
@@ -43,5 +43,10 @@ font-family: serif;
   color: #FFFFFF;
 }
 .what p { 
+  margin-bottom: 10px;
   font-size: 80px;
+}
+.soak img {
+  margin-left: 50px;
+  margin-bottom: 80px;
 }

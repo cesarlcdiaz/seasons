@@ -1,0 +1,9 @@
+--objects--
+information
+products
+event
+  
+--seasons--
+colors
+information
+light difference

@@ -28,7 +28,7 @@
   background-color: #040403;
 }
 .logo {
-  background-image: url("http://i.ebayimg.com/00/s/NTY2WDg0OQ==/z/IL4AAOxyNmZTkXo~/$_32.JPG?set_id=880000500F");
+  background-image: url("https://github.com/cesarlcdiaz/seasons/blob/master/images/gwen.jpg?raw=true");
   background-size: 100% 100%;
   height: 500px;
   margin-left: 50px;
@@ -113,8 +113,14 @@
   .linethree {
   background-color: #040403;
   width: 100%;
-  height: 500px;
+  height: 600px;
+  }
+  .light {
+    padding-top: 50px;
   }
   .table {
+    margin-left: 300px;
     color: #FFFFFF;
+    width: 550px;
+    height: 200px;
   }

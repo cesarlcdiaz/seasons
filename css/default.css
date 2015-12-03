@@ -113,14 +113,21 @@
 .linethree {
   background-color: #040403;
   width: 100%;
-  height: 600px;
+  height: 700px;
 }
 .light {
-  
+  margin-bottom: 50px;
+  padding-bottom: 50px;
   padding-top: 50px;
 }
+.button {
+  margin-top: 50px;
+  padding-top: 100;
+  background: transparent;
+  font-size: 20;
+  color:#FFFFFF;
+}
 .table {
-
   margin-left: 300px;
   color: #FFFFFF;
   width: 550px;

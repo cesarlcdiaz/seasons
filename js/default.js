@@ -1,5 +1,4 @@
-
-   var button = document.getElementById('comparison-button');  
+  var button = document.getElementById('comparison-button');  
     console.log(button);
     button.addEventListener('click',function(){
 
@@ -9,7 +8,4 @@
 
     });     
 
-/*function showDiv() {
-   document.getElementById('comparison').style.display = "block";
- }*/
 
